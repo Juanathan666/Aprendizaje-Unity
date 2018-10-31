@@ -55,16 +55,16 @@
   <ItemGroup>
      <Compile Include="Assets\CambioNumeros.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/Juanathan/Documents/Aprendizaje Unity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/Juanathan/Desktop/Pruebas Unity/Aprendizaje Unity/Aprendizaje Unity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/Juanathan/Documents/Aprendizaje Unity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/Juanathan/Desktop/Pruebas Unity/Aprendizaje Unity/Aprendizaje Unity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/Juanathan/Documents/Aprendizaje Unity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/Juanathan/Desktop/Pruebas Unity/Aprendizaje Unity/Aprendizaje Unity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/Juanathan/Documents/Aprendizaje Unity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/Juanathan/Desktop/Pruebas Unity/Aprendizaje Unity/Aprendizaje Unity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

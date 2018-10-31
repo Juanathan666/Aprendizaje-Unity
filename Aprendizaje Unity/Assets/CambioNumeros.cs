@@ -16,6 +16,9 @@ public class CambioNumeros : MonoBehaviour {
         Num = 1;
 
         Texto = Numero.GetComponent<Text>();
+
+        Texto.text = Num + "";
+
     }
 
     public void Sumar ()
