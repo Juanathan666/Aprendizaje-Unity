@@ -9,7 +9,7 @@ public class CambioNumeros : MonoBehaviour {
 
     Text Texto;
 
-    int Num;
+  int Num;
 
     void Start ()
     {
