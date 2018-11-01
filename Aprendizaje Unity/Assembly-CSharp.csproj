@@ -63,6 +63,7 @@
   <ItemGroup>
     <Compile Include="Assets\CambioNumeros.cs" />
     <Compile Include="Assets\Contador.cs" />
+    <Compile Include="Assets\ContadorAmPm.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/pc/Documents/AprendizajeUnity/Aprendizaje-Unity/Aprendizaje Unity/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
